@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WarishaAli
-- 👀 I’m interested in frontent development mainly React/React Native
+- 👀 I’m interested in web development, react, react native and node js
 - 🌱 I’m currently learning Node JS
 - 📫 How to reach me : ali.warishaa@gmail.com
 
